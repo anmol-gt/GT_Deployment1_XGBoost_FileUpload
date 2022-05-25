@@ -1,0 +1,5 @@
+HeadCount,MonthNo,WeekNo_Encoded,ProjScale_Encoded,JobLevel_Associate,JobLevel_Manager,JobLevel_PPMD,JobLevel_SSC Classes,JobLevel_Senr Associate,JobLevel_Temp/Unknown
+1,8,8,2,0,0,0,0,0,1
+1,12,18,3,0,0,0,1,0,0
+1,3,50,2,0,0,0,0,1,0
+1,7,31,2,0,0,1,0,0,0
